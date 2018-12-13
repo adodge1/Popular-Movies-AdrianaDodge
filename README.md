@@ -1,7 +1,8 @@
 # Popular-Movies-AdrianaDodge
 
-DetailActivity.java -line 37 replace YOUR_API_KEY_HERE for your API Movie.
-MainActivity.java -line 44 replace YOUR_API_KEY_HERE for your API Movie.
+# DetailActivity.java -line 37 replace YOUR_API_KEY_HERE for your API Movie.
+
+# MainActivity.java -line 44 replace YOUR_API_KEY_HERE for your API Movie.
 
 
 PROJECT SPECIFICATION
