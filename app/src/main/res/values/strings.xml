@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="most_popular_menu">Most Popular</string>
+    <string name="highest_rated_menu">Highest Rated</string>
+    <string name="favorites_menu">My Favorites</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again.
+    </string>
+    <string name="movie_poster">movie poster</string>
+    <string name="movie_title">movie title</string>
+    <!-- Error messages-->
+    <string name="detail_error_message">Movie data not available</string>
+    <string name="plotSynopsisTitle">Plot Synopsis</string>
+
+    <string name="reviewsTitle">Movie Reviews</string>
+    <string name="readMoreReviewButton">Read More</string>
+
+    <string name="trailersTitle">Movie Trailers</string>
+    <string name="favoriteTitle">Save movie to favorites</string>
+    <string name="toggle_turn_on">Save movie to favorites</string>
+    <string name="toggle_turn_off">Remove from favorites</string>
+
+
+
+
+</resources>
