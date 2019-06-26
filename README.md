@@ -7,7 +7,7 @@
 ## PROJECT SPECIFICATION  
 ### Popular Movies, Stage 2  
 
-![Image of Main Activity](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/MainActivity.jpg)  
+![Image](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/MainActivity.jpg)  
 
 
 **Common Project Requirements**    
