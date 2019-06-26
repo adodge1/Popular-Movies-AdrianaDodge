@@ -7,6 +7,9 @@
 ## PROJECT SPECIFICATION  
 ### Popular Movies, Stage 2  
 
+![Image](../blob/master/screenshots/MainActivity.jpg?raw=true)  
+
+
 **Common Project Requirements**    
 
 * App is written solely in the Java Programming Language.  
