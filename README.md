@@ -1,13 +1,13 @@
-# Popular-Movies-AdrianaDodge
+# Popular-Movies-AdrianaDodge  
 
-*DetailActivity.java -line 37 replace YOUR_API_KEY_HERE for your API Movie.*
-*MainActivity.java -line 44 replace YOUR_API_KEY_HERE for your API Movie.*
+*DetailActivity.java -line 37 replace YOUR_API_KEY_HERE for your API Movie.*  
+*MainActivity.java -line 44 replace YOUR_API_KEY_HERE for your API Movie.*  
 
 
-##PROJECT SPECIFICATION
-###Popular Movies, Stage 2
+##PROJECT SPECIFICATION  
+###Popular Movies, Stage 2  
 
-**Common Project Requirements**
+**Common Project Requirements**    
 
 *App is written solely in the Java Programming Language.
 *App conforms to common standards found in the Android Nanodegree General Project Guidelines.
