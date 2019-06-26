@@ -8,6 +8,10 @@
 ### Popular Movies, Stage 2  
 
 ![Image](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/MainActivity.jpg)  
+![Image](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/DetailActivity.jpg)
+![Image](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/MyFavorites.jpg)
+![Image](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/Spinner-menu.jpg)
+![Image](https://raw.githubusercontent.com/adodge1/Popular-Movies-AdrianaDodge/master/screenshots/Trailers&Reviews.jpg)
 
 
 **Common Project Requirements**    
